@@ -12,4 +12,6 @@ At BlackRock I built the first end-to-end, client-facing private capital benchma
 
 Working with agentic system design (Claude Code, Devin), RAG, evals and observability (LangFuse), causal inference (DoWhy), dbt and Snowflake.
 
+When I'm not building, I'm trying to get my backhand back, in the gym, or out on a walk.
+
 [LinkedIn](https://www.linkedin.com/in/alexandrecela/) · [Website](https://alexandrecela10.github.io/alexandre_cela_website/) · alexandrecelap@gmail.com
