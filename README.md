@@ -1,6 +1,6 @@
 # Alexandre Cela
 
-**AI Product Lead at BlackRock, based in Dubai.** I build the thing as well as the case for it.
+**AI Product Lead at BlackRock** I build the thing as well as the case for it.
 
 Technical and business, not one or the other. MSc in Management, Business Data Science from ESSEC. I own product strategy, pricing and roadmap, and I also write the Python, the dbt models and the agent code.
 
