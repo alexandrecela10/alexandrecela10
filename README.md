@@ -1,8 +1,6 @@
 # Alexandre Cela
 
-**AI Product Lead at BlackRock** I build the thing as well as the case for it.
-
-Technical and business, not one or the other. MSc in Management, Business Data Science from ESSEC. I own product strategy, pricing and roadmap, and I also write the Python, the dbt models and the agent code.
+**AI Product Lead at BlackRock** I love to build cool and useful produts.
 
 At BlackRock I built the first end-to-end, client-facing private capital benchmarking product for BlackRock and Preqin: 12M AED in first-year revenue, 2,448 client firms, 4,760 users. Led a team of 3 on a deterministic, agentic and human-in-the-loop pipeline over 6,000+ unstructured SEC filings, which cut data availability from months to days. Before that, Indeed Flex, Landytech and Nike.
 
