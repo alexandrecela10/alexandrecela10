@@ -1,8 +1,8 @@
 # Alexandre Cela
 
-**AI Product Lead at BlackRock** I love to build cool and useful produts.
+**AI Product Lead at BlackRock** I love to build cool and useful products, with a focus on private capital investments (Alpha, Faster Operations)
 
-At BlackRock I built the first end-to-end, client-facing private capital benchmarking product for BlackRock and Preqin: 12M AED in first-year revenue, 2,448 client firms, 4,760 users. Led a team of 3 on a deterministic, agentic and human-in-the-loop pipeline over 6,000+ unstructured SEC filings, which cut data availability from months to days. Before that, Indeed Flex, Landytech and Nike.
+At BlackRock I built the first end-to-end, client-facing private capital benchmarking product for BlackRock and Preqin: 12M AED in first-year revenue, 2,448 client firms, 4,760 users. I then drowned myself in scraping BDC Schedules of Investments tables, and especially those footnotes giving non accrual information, from more than 6000 BDC unstructured files, even across a given BDC. I learnt a lot about using LLMs only when needed, I learnt that having an objective ground truth is non negotiable. I also learnt that having an observability system is super useful and non negotiable when it comes to projecting trust in your outputs, especially when thousands of AED are on the line.
 
 **I run my product work through a PM OS**, a Claude Code workspace rather than a folder of templates: 41 skills covering research synthesis through launch, 7 review sub-agents that tear a PRD apart before a human reads it, a context library so drafts cite real names and numbers, and a loop where corrections become permanent rules. AI does the first draft and the grunt work. I do the judgement. Credits to [Aakash Gupta's PM OS](https://www.news.aakashg.com/p/pm-os)
 
