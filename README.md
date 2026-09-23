@@ -2,7 +2,7 @@
 
 **AI Product for Private Capital Investments**
 
-I build AI products that help private-capital investors make better and faster decisions private capital decisions
+I build AI products that help private-capital investors make better and faster private capital decisions
 
 At BlackRock, I built the first end-to-end, client-facing private-capital benchmarking product for BlackRock and Preqin. In its first year, it generated AED 12 million in revenue and reached 4,760 users across 2,448 client firms.
 
