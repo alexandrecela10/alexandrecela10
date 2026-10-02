@@ -18,7 +18,7 @@ Private capital is money invested in companies and loans that don't trade on a s
 
 ### Side projects
 
-Built outside work, on public or made-up data, so anyone can try them. At work I build the same kind of products with real data, for real clients.
+Prototypes and proofs of concept, built outside work on public or made-up data so anyone can try them. My main work is at BlackRock, with real data for real clients, and isn't shareable.
 
 **[See all six with case studies and demos →](https://alexandrecela10.github.io)**
 
