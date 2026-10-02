@@ -6,15 +6,17 @@ Private capital is money invested in companies and loans that don't trade on a s
 
 ### What I've shipped at work
 
-- **Benchmarking product for private capital investors (BlackRock and Preqin).** The first client-facing, end-to-end version. In its first year: AED 12 million in revenue, 4,760 users across 2,448 client firms.
-- **Loan data from 6,000+ unstructured BDC filings.** Extracted each lender's list of loans and the footnotes that show which borrowers stopped paying interest.
+| Product | Persona | Private capital use case | Job to be done | Result |
+|---|---|---|---|---|
+| Benchmarking product (BlackRock and Preqin), first client-facing end-to-end version | Investors who pick and monitor private funds and assets | Compare a fund's or asset's results with similar ones | When I review a fund or an asset, I want to see how it compares with its peers, so I can decide where to commit and what to question | AED 12 million revenue in year one; 4,760 users across 2,448 client firms |
+| Loan data from 6,000+ unstructured BDC filings | Analysts tracking loans to private companies | Spot borrowers that stopped paying interest across lenders | When a borrower runs into trouble, I want to know which lenders have flagged it, so I can act before the loss grows | Lists of loans and their non-accrual footnotes extracted from 6,000+ filings |
 
 ### How I build
 
 - Use AI where it beats fixed rules, not by default.
 - Define what "correct" means before measuring quality.
 - Make every output traceable to its source. If users can't check it, they won't trust it.
-- Treat monitoring as part of the product when money depends on the output.
+- Treat monitoring and governance as part of the product.
 
 ### Side projects
 
@@ -33,7 +35,7 @@ Prototypes and proofs of concept, built outside work on public or made-up data s
 
 ### How I work
 
-I run product work through **[PM OS](https://github.com/alexandrecela10/PM-OS)**, my own system of 48 product skills in Claude Code and Devin. It takes an idea from opportunity check to PRD, review by 7 AI reviewers, build and results. Each correction I make becomes a rule. AI does the repetitive work. I decide what matters and what ships.
+I run product work through **[PM OS](https://github.com/alexandrecela10/PM-OS)**. It started from [Aakash Gupta's PM OS](https://www.news.aakashg.com/p/pm-os), which I customised into my own set of 48 product skills in Claude Code and Devin. It takes an idea from opportunity check to PRD, review by 7 AI reviewers, build and results. Each correction I make becomes a rule. AI does the repetitive work. I decide what matters and what ships.
 
 **Tools:** Claude Code, Devin, Python, Streamlit, LangFuse (AI monitoring), DoWhy (causal inference), dbt, Snowflake.
 
