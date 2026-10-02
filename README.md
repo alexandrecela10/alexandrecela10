@@ -8,7 +8,7 @@ Private capital is money invested in companies and loans that don't trade on a s
 
 | Product | Persona | Private capital use case | Job to be done | Result |
 |---|---|---|---|---|
-| Benchmarking product (BlackRock and Preqin), first client-facing end-to-end version | Investors who pick and monitor private funds and assets | Compare a fund's or asset's results with similar ones | When I review a fund or an asset, I want to see how it compares with its peers, so I can decide where to commit and what to question | AED 12 million revenue in year one; 4,760 users across 2,448 client firms |
+| Benchmarking product (BlackRock and Preqin), first client-facing end-to-end version | Deal team at a private equity firm | Comparing a company they want to buy with similar past deals | When I price an acquisition, I want to see what similar companies sold for and how those deals performed, so I can set my bid and test my return assumptions | AED 12 million revenue in year one; 4,760 users across 2,448 client firms |
 | Loan data from 6,000+ unstructured BDC filings | Analysts tracking loans to private companies | Spot borrowers that stopped paying interest across lenders | When a borrower runs into trouble, I want to know which lenders have flagged it, so I can act before the loss grows | Lists of loans and their non-accrual footnotes extracted from 6,000+ filings |
 
 ### How I build
