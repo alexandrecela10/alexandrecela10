@@ -4,6 +4,21 @@
 
 Private capital is money invested in companies and loans that don't trade on a stock exchange. These investors decide with little public data. I turn their messy documents into data they can trust, then into tools that speed up their decisions.
 
+### Example: Lender Watch, a proof of concept
+
+**For LPs and GPs: see which of your companies lenders are marking down, in minutes, from a spreadsheet or Claude, with the SEC filing behind every number and a person settling anything unclear.**
+
+[![KnowBe4 flagged in the sheet: lenders value its debt at 78% of what they're owed, down 11.3 points, with the filing one click away](assets/lender-watch-demo.jpg)](https://alexandrecela10.github.io/projects/lender-watch/#watch)
+
+[Watch 59 seconds](https://alexandrecela10.github.io/projects/lender-watch/#watch) · [Demo](https://lender-watch.streamlit.app) · [Case study](https://alexandrecela10.github.io/projects/lender-watch/) · [Code](https://github.com/alexandrecela10/lender-watch)
+
+It shows how I approach AI adoption in private equity. Tools and connectors fit into the work people already do, and give answers they can check. Underneath sits organised data: one identity per company, and a source for every value. No investor has tested it yet.
+
+```mermaid
+flowchart LR
+  A["1 Investor front end<br/>Excel, Claude"] --> B["2 AI tools and connectors<br/>link names, do the maths"] --> C["3 Data<br/>SEC filings, saved answers"]
+```
+
 ### What I've shipped at work
 
 | Product | Example Persona | Example Private capital use case | Job to be done | Result |
@@ -22,7 +37,7 @@ Private capital is money invested in companies and loans that don't trade on a s
 
 Prototypes and proofs of concept, built outside work on public or made-up data so anyone can try them. My main work is at BlackRock, with real data for real clients, and isn't shareable.
 
-**[See all six with case studies and demos →](https://alexandrecela10.github.io)**
+**[See all projects with case studies and demos →](https://alexandrecela10.github.io)**
 
 | Project | Who it's for | What it does | |
 |---|---|---|---|
