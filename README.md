@@ -8,7 +8,7 @@ Private capital is money invested in companies and loans that don't trade on a s
 
 **For LPs and GPs: see which of your companies lenders are marking down, in minutes, from a spreadsheet or Claude, with the SEC filing behind every number and a person settling anything unclear.**
 
-[![One formula, =RECONCILE(A2:A6), fills in what lenders show for five companies: flagged, not flagged or worth a look, with unclear matches waiting for the analyst](assets/lender-watch-demo.jpg)](https://alexandrecela10.github.io/projects/lender-watch/#watch)
+[![One formula, =RECONCILE(A2:A6), fills in what lenders show for five companies: flagged, not flagged or worth a look, with unclear matches waiting for the analyst](assets/lender-watch-reconcile.jpg)](https://alexandrecela10.github.io/projects/lender-watch/#watch)
 
 [Watch 59 seconds](https://alexandrecela10.github.io/projects/lender-watch/#watch) · [Demo](https://lender-watch.streamlit.app) · [Case study](https://alexandrecela10.github.io/projects/lender-watch/) · [Code](https://github.com/alexandrecela10/lender-watch)
 
