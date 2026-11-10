@@ -8,7 +8,7 @@ Private capital is money invested in companies and loans that don't trade on a s
 
 **For LPs and GPs: see which of your companies lenders are marking down, in minutes, from a spreadsheet or Claude, with the SEC filing behind every number and a person settling anything unclear.**
 
-[![KnowBe4 flagged in the sheet: lenders value its debt at 78% of what they're owed, down 11.3 points, with the filing one click away](assets/lender-watch-demo.jpg)](https://alexandrecela10.github.io/projects/lender-watch/#watch)
+[![An analyst types =RECONCILE(A2:A6) beside a list of five companies](assets/lender-watch-demo.jpg)](https://alexandrecela10.github.io/projects/lender-watch/#watch)
 
 [Watch 59 seconds](https://alexandrecela10.github.io/projects/lender-watch/#watch) · [Demo](https://lender-watch.streamlit.app) · [Case study](https://alexandrecela10.github.io/projects/lender-watch/) · [Code](https://github.com/alexandrecela10/lender-watch)
 
@@ -39,14 +39,12 @@ Prototypes and proofs of concept, built outside work on public or made-up data s
 
 **[See all projects with case studies and demos →](https://alexandrecela10.github.io)**
 
-| Project | Who it's for | What it does | |
-|---|---|---|---|
-| BDC Footnote Tape | Analyst at a private lender | Turns any lending fund's SEC report into one row per loan, with its footnotes explained | [Case study](https://alexandrecela10.github.io/projects/bdc-footnotes/) · [Demo](https://bdc-footnote-tape.streamlit.app) |
-| BDC Mark Tape | Lender pricing or reviewing loans | Shows what other lenders charge and how they value similar loans, with sources | [Case study](https://alexandrecela10.github.io/projects/parallax/) · [Demo](https://bdc-mark-tape-parallax.streamlit.app) |
-| Deck Rank | Junior investor at a startup fund | Ranks incoming pitch decks so the best is read first; every score quotes its slide | [Case study](https://alexandrecela10.github.io/projects/deck-rank/) · [Demo](https://deck-rank.streamlit.app) |
-| Alpha Scout | Junior investor at a startup fund | Finds startups before they ask for money; every score has a quote and a link | [Case study](https://alexandrecela10.github.io/projects/alpha-scout/) · [Demo](https://alpha-scout-3ygbqjh8aw4qrkzrzfkjei.streamlit.app) |
-| Night’s Watch | Credit team at a private lender | Warns when a borrower may not have the usable cash for its next interest payment | [Case study](https://alexandrecela10.github.io/projects/nights-watch/) · [Prototype](https://alexandrecela10.github.io/liquidity-project-nights-watch/web/product.html) · [Deck](https://alexandrecela10.github.io/liquidity-project-nights-watch/web/ACELA-LiquidityAssignment-NightsWatch-v6.pdf) |
-| Shield | Fund that owns part of a construction project | Finds contract deadlines in project documents before the right to claim money expires | [Case study](https://alexandrecela10.github.io/projects/shield/) · [Demo](https://alexandrecela10.github.io/projects/shield/demo/) |
+| Project | Investment stage | Who it's for | What they get | |
+|---|---|---|---|---|
+| Alpha Scout | Sourcing | Junior investor at a startup fund | A scored shortlist of startups that fit the fund, before they ask for money. Every score has a quote and a link | [Case study](https://alexandrecela10.github.io/projects/alpha-scout/) · [Demo](https://alpha-scout-3ygbqjh8aw4qrkzrzfkjei.streamlit.app) |
+| Deck Rank | Screening | Junior investor at a startup fund | The best pitch deck read first. Every score quotes the slide it came from | [Case study](https://alexandrecela10.github.io/projects/deck-rank/) · [Demo](https://deck-rank.streamlit.app) |
+| Secondaries Radar | Sourcing and screening | Secondaries team at a large investor | Whether an offer deserves an NDA within minutes, with a price view from their own fund data, and which pensions may sell | [Case study](https://alexandrecela10.github.io/projects/secondaries-radar/) · [Demo](https://secondaries-radar.streamlit.app) |
+| Portfolio Answer Desk | Monitoring | Portfolio analyst at a large LP | The right number, with its sources, in minutes when the CIO asks about the portfolio | [Case study](https://alexandrecela10.github.io/projects/portfolio-answer-desk/) · [Demo](https://portfolio-answer-desk.streamlit.app) |
 
 ### How I work
 
